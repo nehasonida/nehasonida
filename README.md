@@ -1,0 +1,26 @@
+### Hi there 👋
+
+<!--
+**nehasonida/nehasonida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Neha👋
+
+Welcome to my Github profile
+I am a BSc graduate in Computer Science and an MSc graduate in Mathematics. Throughout my academic journey, I have developed a strong foundation in programming, mathematical modelling, data analysis and statistics.
+I am an aspiring data analyst, constantly on a quest to turn data into actionable insights. My expertise lies in data analysis, python. My ultimate goal is to use my data analysis skills to solve real-world problems and make a positive impact on the world.
+
+I am always on the lookout for new challenges and opportunities to learn and grow in the field of data analysis.
+
+Currently in my 3rd year of college, pursuing undergrad in BSC with specialization in Information Technology. 
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
